@@ -1,0 +1,66 @@
+How to Create and Use a Public GitHub Repository
+GitHub repositories are essential tools for organizing and sharing your work. In this tutorial, you will learn how to create a public repository, add files and folders, use Markdown formatting, and collaborate with others. By mastering these steps, you'll develop a skill that is highly valued in both academic and professional settings.
+
+Step 1: Create a Public Repository
+Why is this important? A GitHub repository is like a digital folder where all your project files and their version history are stored. Creating a public repository allows you to share your work with classmates and instructors easily.
+1. Log in to your GitHub account.
+2. Click the "+" icon in the top-right corner of the page and select "New repository".
+3. Fill in the repository details: 
+o Repository name: Enter a unique name for your repository, such as AI-Class-Project.
+o Description: Provide a short description, like "Repository for AI class assignments and projects."
+o Public/Private: Select Public so others can access it.
+4. Check the box for "Add a README file". This file serves as an introduction to your project, providing an overview and any relevant information.
+5. Click "Create repository" to finalize.
+
+Step 2: Add Files to Your Repository
+Why is this important? Adding files to your repository allows you to store and organize all your project materials in one place. Whether it’s notes, code, or presentations, everything can be centralized.
+1. Navigate to your repository’s main page.
+2. To upload an existing file from your computer: 
+o Click the "Add file" button and choose "Upload files".
+o Upload a file named assignment1-notes.txt containing any notes or assignments.
+o Click "Commit changes" to save the file.
+3. To create a new file directly: 
+o Click "Add file" and select "Create new file".
+o In the file name field, type class-schedule.md.
+o Add the following content in the editor: 
+o # Class Schedule
+o 
+o - Week 1: Introduction to AI
+o - Week 2: Machine Learning Basics
+o - Week 3: Neural Networks
+o Scroll down and click "Commit new file" to save it.
+
+Step 3: Use Folders to Organize Your Repository
+Why is this important? Folders help you structure your repository, making it easier to find and manage files, especially in larger projects.
+1. To create a folder (directory): 
+o Click "Add file" and select "Create new file".
+o In the file name field, type projects/project1-overview.md.
+o Add the following content to the file: 
+o # Project 1 Overview
+o This project focuses on building a simple AI model to predict house prices.
+o Click "Commit new file". This will automatically create a projects folder and save the file inside it.
+2. To add more files to the folder: 
+o Use the same structure, such as projects/project1-results.md, and include relevant content.
+
+Step 4: Use ChatGPT to Turn Content into Markdown
+Why is this important? Markdown is a lightweight markup language that makes formatting text simple and clean. Using Markdown allows you to create professional-looking files that are easy to read and share.
+1. Write your content or notes in any format.
+2. Open the Markdown Editor 
+2. Links to an external site..
+3. Use ChatGPT to convert your content into Markdown format. For example: 
+o Original: "AI is transforming industries like healthcare and finance."
+o Markdown: AI is transforming industries like **healthcare** and **finance**.
+4. Paste the Markdown code into the Markdown Editor to preview it.
+5. Copy the Markdown content and save it in your repository. For example: 
+o File name: notes/ai-impact.md.
+o Content: 
+o # AI Impact
+o AI is transforming industries like **healthcare** and **finance**.
+
+Step 5: Share Your Repository
+Why is this important? Sharing your repository enables collaboration and allows others to provide feedback or contribute to your work.
+1. Navigate to your repository’s main page.
+2. Copy the repository URL from the address bar (it will look like https://github.com/your-username/AI-Class-Project).
+3. Share this URL with others by email, chat, or any communication tool.
+4. Ask a classmate to visit your repository link, review your content, and even contribute if necessary.
+
